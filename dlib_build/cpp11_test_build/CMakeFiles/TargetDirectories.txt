@@ -1,0 +1,3 @@
+/Users/ken/projects/dlib/v-19.15-Xcode/dlib-19.15/examples/build/dlib_build/cpp11_test_build/CMakeFiles/cpp11_test.dir
+/Users/ken/projects/dlib/v-19.15-Xcode/dlib-19.15/examples/build/dlib_build/cpp11_test_build/CMakeFiles/ALL_BUILD.dir
+/Users/ken/projects/dlib/v-19.15-Xcode/dlib-19.15/examples/build/dlib_build/cpp11_test_build/CMakeFiles/ZERO_CHECK.dir
